@@ -1,0 +1,20 @@
+{
+  "name": "nexora-discord-oto-rol-botu",
+  "version": "1.0.0",
+  "description": "Nexora Development için prefixli otomatik rol sistemi botu.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "autorole",
+    "nodejs"
+  ],
+  "author": "Sizin Adınız (Opsiyonel)",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
